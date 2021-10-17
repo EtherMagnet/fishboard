@@ -1,0 +1,17 @@
+{
+    "name": "Crypto Cars",
+    "thumbnail": "https://pbs.twimg.com/media/E_BGp9pVEAQ4RBu.jpg",
+    "chain_id": "binance-smart-chain",
+    "filters": {
+        "interactions": [],
+        "transfers": [
+            {
+                "coinmarketcap": 11502,
+                "tokenAddress": "0x50332bdca94673f33401776365b66cc4e81ac81d",
+                "holders": [
+                    "0x1063b64d48808be1662685d439f84f34b96d7108"
+                ]
+            }
+        ]
+    }
+}
